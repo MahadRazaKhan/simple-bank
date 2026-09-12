@@ -9,7 +9,7 @@ A full-stack banking application built with Node.js, Express, and MySQL. It uses
 <table>
   <tr>
     <td align="center">
-      <img src="ss01.png" alt="Login Page" width="400"/>
+      <img src="simple-bank/ss01.png" alt="Login Page" width="400"/>
       <br/>
       <sub></sub>
     </td>
