@@ -3,9 +3,6 @@
 A full-stack banking application built with Node.js, Express, and MySQL. It uses regional database sharding across four provinces of Pakistan, with JWT authentication, email verification, and a ledger-based transaction system.
 
 ---
-
-## Screenshots
-
 <table>
   <tr>
     <td align="center">
