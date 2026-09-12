@@ -54,7 +54,5 @@ A full-stack banking application built with Node.js, Express, and MySQL. It uses
 
 **Database:** MySQL 8 with five databases (one metadata, four regional)
 
----
-
 
 A single Express server handles authentication and routes each request to the correct regional database based on the user's province.
