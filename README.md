@@ -9,24 +9,24 @@ A full-stack banking application built with Node.js, Express, and MySQL. It uses
 <table>
   <tr>
     <td align="center">
-      <img src="simple-bank/ss01.png" alt="Login Page" width="400"/>
+      <img src="https://github.com/MahadRazaKhan/simple-bank/blob/main/ss01.png.png" alt="Login Page" width="400"/>
       <br/>
       <sub></sub>
     </td>
     <td align="center">
-      <img src="ss02.png" alt="Dashboard" width="400"/>
+      <img src="https://github.com/MahadRazaKhan/simple-bank/blob/main/ss02.png.png" alt="Dashboard" width="400"/>
       <br/>
       <sub></sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="ss03.png" alt="Transaction" width="400"/>
+      <img src="https://github.com/MahadRazaKhan/simple-bank/blob/main/ss03.png.png" alt="Transaction" width="400"/>
       <br/>
       <sub></sub>
     </td>
     <td align="center">
-      <img src="ss04.png" alt="Ledger" width="400"/>
+      <img src="https://github.com/MahadRazaKhan/simple-bank/blob/main/ss04.png.png" alt="Ledger" width="400"/>
       <br/>
       <sub></sub>
     </td>
