@@ -4,6 +4,37 @@ A full-stack banking application built with Node.js, Express, and MySQL. It uses
 
 ---
 
+## Screenshots
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="ss01.png" alt="Login Page" width="400"/>
+      <br/>
+      <sub></sub>
+    </td>
+    <td align="center">
+      <img src="ss02.png" alt="Dashboard" width="400"/>
+      <br/>
+      <sub></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="ss03.png" alt="Transaction" width="400"/>
+      <br/>
+      <sub></sub>
+    </td>
+    <td align="center">
+      <img src="ss04.png" alt="Ledger" width="400"/>
+      <br/>
+      <sub></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
 ## Features
 
 - User signup and login with JWT authentication
