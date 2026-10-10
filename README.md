@@ -40,6 +40,7 @@ A full-stack banking application built with Node.js, Express, and MySQL. It uses
 - Metadata database for users and account routing
 - Deposit and withdraw with row-level locking
 - Transaction history
+- Elastic Search + Java sdk for searching user info
 - Delete account with automatic logout
 - Loading screen during authentication
 - Responsive dark-themed UI
