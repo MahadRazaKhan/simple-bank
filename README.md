@@ -51,6 +51,6 @@ A full-stack banking application built with Node.js, Express, and MySQL. It uses
 
 **Backend:** Node.js, Express, MySQL (mysql2), JWT, bcryptjs, Nodemailer, dotenv, CORS
 
-**Frontend:** HTML5, CSS3, Vanilla JavaScript
+**Frontend:** HTML5, CSS3, Vanilla JavaScript, ElasticSearch, Java SDK
 
 **Database:** MySQL 8 with five databases (one metadata, four regional)
